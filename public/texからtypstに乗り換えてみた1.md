@@ -1,12 +1,12 @@
 ---
 title: texからtypstに乗り換えてみた1
 tags:
-    - "typst"
-    - "LaTex"
-    - "Tex"
+  - LaTeX
+  - TeX
+  - Typst
 private: false
-updated_at: "2025-1-25"
-id: null
+updated_at: '2025-01-25T22:38:12+09:00'
+id: aa179a141f0239191bab
 organization_url_name: null
 slide: false
 ignorePublish: false
